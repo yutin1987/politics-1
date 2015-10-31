@@ -6,3 +6,5 @@
 3. 建立新「政見」
 4. 編輯「政見」的內容
 5. 將「政見」同步到 github
+![Sync](readme_sync.png)
+點選 Sync 的按鈕
